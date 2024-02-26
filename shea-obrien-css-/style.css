@@ -1,0 +1,34 @@
+body{
+    width: 60%;
+    margin: auto;
+    background-color: #F7C5CC;
+    font-family: 'Cormorant', serif;
+}
+
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a:visited{
+    color: #283044;
+}
+
+a:hover{
+    color: #BFA89E;
+}
+
+h1{
+color: #CC313D;
+font-size: 60px;
+text-align: center;
+font: bold;
+}
+
+p{
+    color: #CC313D;
+    font-size: 30;
+    text-align: center;
+    font: bold;
+}
